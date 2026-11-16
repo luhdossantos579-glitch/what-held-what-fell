@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whatheldwhatfell.visionmediachannels.com/sitemap.xml
